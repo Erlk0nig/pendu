@@ -1,0 +1,16 @@
+
+blanc
+Jaune
+Bleu
+rouge
+vert
+Noir
+marron
+Azur
+Ivoire
+Violet
+gris
+Orange
+Kaki
+Rose
+Cyan
