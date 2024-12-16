@@ -11,3 +11,5 @@ C'est un jeu simple du Pendu implémenté en C, où le programme choisit un mot 
 ## Prérequis
 - Un compilateur C (par exemple, GCC) pour compiler le code.
 - Le jeu s'attend à avoir au moins un fichier de liste de mots. Vous pouvez ajouter plus de fichiers de liste de mots pour augmenter le nombre de mots disponibles.
+
+**Remerciements :** Ce projet a été inspiré par "TP : réalisation d'un jeu Pendu" extrait du livre Apprenez à programmer en C de Mathieu Nebra.
