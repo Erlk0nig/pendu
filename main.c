@@ -298,7 +298,8 @@ void scoreListe(int score, char nom[]){
       for(int i=0;i<10;i++){
         printf("%d- %s : %d\n",i+1,joueurs[i].nom,joueurs[i].score);
       }
-    }
+    }   
+        free(chainefichier);
         fclose(fichier);
     
    
