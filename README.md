@@ -11,4 +11,5 @@ This is a simple Hangman game implemented in C that selects a word to guess from
 ## Prerequisites
 - A C compiler (e.g., GCC) to compile the code.
 - The game expects at least one word list file. You can add more word list files to increase the word pool.
- **Acknowledgments:** This project was inpired by "TP : réalisation d'un jeu Pendu" from the book "Apprenez à programmer en C" by Mathieu Nebra 
+
+**Acknowledgments:** This project was inpired by "TP : réalisation d'un jeu Pendu" from the book "Apprenez à programmer en C" by Mathieu Nebra 
